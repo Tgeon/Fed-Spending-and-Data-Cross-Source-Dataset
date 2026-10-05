@@ -1,0 +1,15 @@
+# Data (too large for GitHub; rebuild with 03_Pipeline/build_clean.py)
+01_Raw_Data/
+02_Clean_Data/
+04_Extracts/
+05_Workbook/build_inputs/
+
+# Logs and temp files
+*.log
+*.duckdb
+*.duckdb.wal
+*.parquet
+__pycache__/
+*.pyc
+.DS_Store
+~$*

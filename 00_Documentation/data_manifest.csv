@@ -1,0 +1,25 @@
+dataset,new_path,original_path,bytes
+"USAspending","Cross-Source Audit Analytics/01_Raw_Data/01_USAspending_Contracts/usaspending_contract_transactions.csv","Project 2 - Cross-Source Audit Analytics 2/01 USAspending Contracts/Contracts_PrimeTransactions_2026-10-01_H05M43S47_1.csv",95696155
+"USAspending","Cross-Source Audit Analytics/01_Raw_Data/01_USAspending_Contracts/usaspending_contract_award_summaries.csv","Project 2 - Cross-Source Audit Analytics 2/01 USAspending Contracts/Contracts_PrimeAwardSummaries_2026-10-01_H05M17S23_1.csv",40893780
+"OpenFEMA","Cross-Source Audit Analytics/01_Raw_Data/02_OpenFEMA_Public_Assistance/openfema_pa_funded_projects.csv","Missing files/PublicAssistanceFundedProjectsDetails.csv",290912503
+"FAC","Cross-Source Audit Analytics/01_Raw_Data/03_FAC_Single_Audit/fac_general.csv","Missing files/general.csv",271228742
+"FAC","Cross-Source Audit Analytics/01_Raw_Data/03_FAC_Single_Audit/fac_findings.csv","Project 2 - Cross-Source Audit Analytics 2/03 Federal Audit Clearinghouse/findings.csv",67993524
+"FAC","Cross-Source Audit Analytics/01_Raw_Data/03_FAC_Single_Audit/fac_federal_awards.csv","Project 2 - Cross-Source Audit Analytics 2/03 Federal Audit Clearinghouse/federal_awards.csv",1342618475
+"SBA_PPP","Cross-Source Audit Analytics/01_Raw_Data/05_SBA_PPP_Loans/sba_ppp_loans_150k_plus_240930.csv","Missing files/public_150k_plus_240930.csv",452077279
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q1/sec_2025q1_sub.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q1/sub.txt",1876540
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q1/sec_2025q1_pre.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q1/pre.txt",92680669
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q1/sec_2025q1_tag.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q1/tag.txt",19383409
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/sec_readme.htm","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q1/readme.htm",154786
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q2/sec_2025q2_sub.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q2/sub.txt",2129036
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q2/sec_2025q2_pre.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q2/pre.txt",93698755
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q2/sec_2025q2_tag.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q2/tag.txt",18872796
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q3/sec_2025q3_sub.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q3/sub.txt",1978458
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q3/sec_2025q3_pre.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q3/pre.txt",88708629
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q3/sec_2025q3_tag.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q3/tag.txt",17708907
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q4/sec_2025q4_sub.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q4/sub.txt",1902944
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q4/sec_2025q4_pre.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q4/pre.txt",88369993
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q4/sec_2025q4_tag.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q4/tag.txt",17938277
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q1/sec_2025q1_num.txt","Missing files/num.txt",530194302
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q2/sec_2025q2_num.txt","Missing files/num (1).txt",498246785
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q3/sec_2025q3_num.txt","Project 2 - Cross-Source Audit Analytics 2/04 SEC Financial Statement Data Sets/2025q3/num.txt",542201491
+"SEC","Cross-Source Audit Analytics/01_Raw_Data/04_SEC_Financial_Statements/2025q4/sec_2025q4_num.txt","Project 2 - Cross-Source Audit Analytics/04 SEC Financial Statement Data Sets/2025q4/num.txt",567568365

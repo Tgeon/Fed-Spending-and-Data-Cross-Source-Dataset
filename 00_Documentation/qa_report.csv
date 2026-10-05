@@ -1,0 +1,36 @@
+check,raw_or_expected,clean_or_actual,result
+USAspending transactions: row count,41979,41979,PASS
+USAspending transactions: sum federal_action_obligation,17426155134.370037,17426155134.370056,PASS
+USAspending awards: row count,19806,19806,PASS
+USAspending awards: sum total_obligated,27089812734.120003,27089812734.12005,PASS
+OpenFEMA: row count,849718,849718,PASS
+OpenFEMA: sum totalObligated,285932418635.4226,285932418635.4221,PASS
+OpenFEMA: sum projectAmount,351564692575.4193,351564692575.4207,PASS
+FAC reports: row count,416020,416020,PASS
+FAC reports: sum total_amount_expended,17729585419688.0,17729585419688.0,PASS
+FAC awards: row count,7305144,7305144,PASS
+FAC awards: sum amount_expended,17729583282334.0,17729583282334.0,PASS
+FAC findings: row count,683468,683468,PASS
+SBA PPP: row count,968524,968524,PASS
+SBA PPP: sum InitialApprovalAmount,515517882888.4691,515517882888.46545,PASS
+SBA PPP: sum ForgivenessAmount,499248906740.1782,499248906740.1781,PASS
+SEC filings: row count (distinct adsh),26085,26085,PASS
+Unique key usaspending_transactions.transaction_key,41979,41979,PASS
+Unique key usaspending_awards.award_key,19806,19806,PASS
+Unique key fema_pa_projects.project_key,849718,849718,PASS
+Unique key fac_reports.report_id,416020,416020,PASS
+Unique key sba_ppp_loans.loan_number,968524,968524,PASS
+Unique key sec_filings.adsh,26085,26085,PASS
+Unique key unified_records.source||'|'||record_id,11567760,11567760,PASS
+Unified USAspending amount equals source table,17426155134.370056,17426155134.370056,PASS
+Unified OpenFEMA amount equals source table,285932418635.42017,285932418635.4194,PASS
+Unified FAC amount equals source table,17729583282334.0,17729583282334.0,PASS
+Unified SBA PPP amount equals source table,515517882888.4645,515517882888.46436,PASS
+OpenFEMA: raw state values rejected as invalid,0,0,INFO
+SBA PPP: raw BorrowerState values rejected as invalid,0,0,INFO
+FAC: raw auditee_state values rejected as invalid,122,0,INFO
+Date coverage usaspending_transactions,41979,41979,2020-10-01 to 2025-09-30
+Date coverage fema_pa_projects,849718,849718,1998-09-15 to 2026-09-30
+Date coverage fac_reports,416020,416020,2016-07-17 to 2026-09-25
+Date coverage sba_ppp_loans,968524,968524,2020-04-03 to 2021-07-19
+Date coverage sec_filings,26085,26085,2025-01-02 to 2025-12-31
